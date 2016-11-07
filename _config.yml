@@ -1,0 +1,28 @@
+# Setup
+title:        Apps For Aldebaran Robotics
+tagline:      Hope you can enjoy the Apps
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Qishan Shi
+  url:        shiqishan@hotmail.com 
+
+# Main Buttons
+first_button:
+  name:       Apps OverView
+  url:        https://bigshan.github.io/main/apps_overView.html
+second_button:
+  name:       Download Servers
+  url: 		  https://bigshan.github.io/main/DownLoad_Servers.html
+Three_button:
+  name:       Cooperation
+  url:		  https://bigshan.github.io/main/Cooperation.html
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
